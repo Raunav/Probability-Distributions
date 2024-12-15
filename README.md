@@ -38,9 +38,3 @@ Below are sample visualizations from the project:
 2. **Scatter Plot/Time Series**
    - Visualization showing the relationship between variable Y and Z.
 
-## View Full Code
-The full implementation, including Python scripts and Jupyter Notebook, can be found on GitHub:
-
-[View on GitHub](https://github.com/Raunav/Data-Analysis-Performance-Visualizations)
-
----
